@@ -10,6 +10,10 @@ Dataset utilizado:
 
 ## Contenidos del Trabajo
 - Análisis exploratorio del dataset
+  * Analisis de distribución de colores
+  * Análisis de distribucioón de etiquetas
+  * Dimensin de imágenes y relación de aspecto
+  * Calidad de imágenes
 - Entrenamiento de modelos de clasificación
 - Comparación de arquitecturas y métricas
 - Data augmentation y/o transfer learning según sea necesario
